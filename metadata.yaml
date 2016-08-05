@@ -1,0 +1,36 @@
+_repo: The-Head-of-Kay-s_6877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Wodehouse, Pelham Grenville
+    - Windham, Basil
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "The Head of Kay's is a novel by English author P.G. Wodehouse.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Humor
+- School Stories
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6877'
+  wikidata: Q7739105
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+title: The Head of Kay's
+url: http://www.gutenberg.org/ebooks/6877
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Head_of_Kay%27s
