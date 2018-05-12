@@ -1,5 +1,8 @@
 _repo: The-Head-of-Kay-s_6877
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
 description: "The Head of Kay's is a novel by English author P.G. Wodehouse.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6877#The-Head-of-Kay-s
 gutenberg_bookshelf:
 - Humor
 - School Stories
